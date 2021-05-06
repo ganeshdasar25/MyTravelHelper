@@ -1,0 +1,32 @@
+PODS:
+  - DropDown (2.3.13)
+  - SwiftSpinner (2.2.0)
+  - XMLParsing (0.0.3)
+
+DEPENDENCIES:
+  - DropDown
+  - SwiftSpinner
+  - XMLParsing (from `https://github.com/ShawnMoore/XMLParsing.git`)
+
+SPEC REPOS:
+  trunk:
+    - DropDown
+    - SwiftSpinner
+
+EXTERNAL SOURCES:
+  XMLParsing:
+    :git: https://github.com/ShawnMoore/XMLParsing.git
+
+CHECKOUT OPTIONS:
+  XMLParsing:
+    :commit: 594272e4df40798c53ae1735ee65f3f387291670
+    :git: https://github.com/ShawnMoore/XMLParsing.git
+
+SPEC CHECKSUMS:
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  SwiftSpinner: f9b59477fe107427f2b5b835497d6636fa167ede
+  XMLParsing: 085edb6fa22c71d6b53a79299f990a91e7414d19
+
+PODFILE CHECKSUM: 7af53be694b50f45e49b7166df59a1fa2d0d32a2
+
+COCOAPODS: 1.10.0
